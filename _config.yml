@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Yun Liu / leoly"
 title_separator          : "-"
 name                     : &name "Yun Liu"
-description              : &description "A 3rd-year PhD student in IIIS, Tsinghua University."
+description              : &description "PhD candidate in IIIS, Tsinghua University."
 url                      : https://leolyliu.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "leolyliu/leolyliu.github.io"
@@ -24,7 +24,7 @@ author:
   avatar           : "202501.jpg"
   name             : "Yun Liu 刘昀"
   pronouns         : # "he/his"
-  bio              : "A 3rd-year PhD student in IIIS, Tsinghua University."
+  bio              : "PhD candidate in IIIS, Tsinghua University."
   location         : "Beijing, China"
   employer         : "Tsinghua University"
   uri              : # URL
@@ -75,13 +75,13 @@ author:
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
-publication_category:
-  books:
-    title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
+# publication_category:
+#   books:
+#     title: 'Books'
+#   manuscripts:
+#     title: 'Journal Articles'    
+#   conferences:
+#     title: 'Conference Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
