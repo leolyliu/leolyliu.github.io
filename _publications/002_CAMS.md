@@ -3,7 +3,7 @@ title: "CAMS: CAnonicalized Manipulation Spaces for Category-Level Functional Ha
 teaser: "002_CAMS.png"
 authors:
     - name: "Juntian Zheng*"
-      url: "https://scholar.google.com/citations?hl=zh-CN&user=J4mHYkQAAAAJ"
+      url: "https://scholar.google.com/citations?user=J4mHYkQAAAAJ"
     - name: "Lixing Fang*"
       url: "https://owenowl.github.io/"
     - name: "Qingyuan Zheng*"

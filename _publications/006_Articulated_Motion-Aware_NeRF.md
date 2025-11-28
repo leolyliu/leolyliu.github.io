@@ -3,7 +3,7 @@ title: "Articulated Motion-Aware NeRF for 3D Dynamic Appearance and Geometry Rec
 teaser: "006_Articulated_Motion-Aware_NeRF.png"
 authors:
     - name: "Yahao Shi"
-      url: "https://scholar.google.com/citations?hl=zh-CN&user=-VJZrUkAAAAJ"
+      url: "https://scholar.google.com/citations?user=-VJZrUkAAAAJ"
     - name: "Ye Tao"
     - name: "Mingjia Yang"
       url: "https://mingjiayang.github.io/"

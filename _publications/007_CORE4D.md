@@ -4,7 +4,7 @@ teaser: "007_CORE4D.png"
 authors:
     - name: "<b>Yun Liu</b>*"
     - name: "Chengwen Zhang*"
-      url: "https://scholar.google.com/citations?hl=zh-CN&user=5kHXfSMAAAAJ"
+      url: "https://scholar.google.com/citations?user=5kHXfSMAAAAJ"
     - name: "Ruofan Xing"
     - name: "Bingda Tang"
       url: "https://tang-bd.github.io/"
