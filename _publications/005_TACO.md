@@ -1,6 +1,6 @@
 ---
 title: "TACO: Benchmarking Generalizable Bimanual Tool-ACtion-Object Understanding"
-teaser: "005_TACO.png"
+teaser: "005_TACO.mp4"
 authors:
     - name: "<b>Yun Liu</b>"
     - name: "Haolin Yang"

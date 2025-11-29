@@ -16,7 +16,7 @@ I received my Bachelor's in Computer Science and Technology from Tsinghua Univer
 * 📦🚶‍♂️Human-Object Interaction: Motion Capture, Motion Generation
 * 🤖 Embodied AI: Humanoid Robot Motion Tracking, Vision-based Humanoid Autonomous Systems
 
-<h2>Publications</h2>
+<h2>📜 Publications</h2>
 
 <a href="/publications/">📝 (click here)</a>
 
@@ -25,5 +25,3 @@ I received my Bachelor's in Computer Science and Technology from Tsinghua Univer
 <a href="/misc/">🪐 (click here)</a>
 
 Academic services: reviewer of CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, AAAI, RA-L, and IROS.
-
-TBD

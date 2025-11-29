@@ -11,7 +11,7 @@ authors:
     - name: "Li Yi"
       url: "https://ericyi.github.io/"
 publication: "Computer Vision and Pattern Recognition (CVPR), 2023"
-abstract: "A new motion synthesis method for category-level functional hand-object manipulation."
+abstract: "A motion synthesis method for category-level functional hand-object manipulation."
 url_project_page: "https://cams-hoi.github.io/"
 url_paper: "https://openaccess.thecvf.com/content/CVPR2023/papers/Zheng_CAMS_CAnonicalized_Manipulation_Spaces_for_Category-Level_Functional_Hand-Object_Manipulation_Synthesis_CVPR_2023_paper.pdf"
 url_arxiv: "https://arxiv.org/abs/2303.15469"

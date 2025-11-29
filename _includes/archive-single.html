@@ -54,6 +54,8 @@
             href="{{ post.url_code }}">Code</a> | <a href="{{ post.url_data }}">Data</a></p>
       {% elsif post.url_project_page and post.url_paper and post.url_arxiv %}
         <p class="pub-links" style="font-size: 0.8em; margin: 0;"><a href="{{ post.url_project_page }}">Project Page</a> | <a href="{{ post.url_paper }}">Paper</a> | <a href="{{ post.url_arxiv }}">arXiv</a></p>
+      {% elsif post.url_project_page and post.url_arxiv and post.url_code %}
+        <p class="pub-links" style="font-size: 0.8em; margin: 0;"><a href="{{ post.url_project_page }}">Project Page</a> | <a href="{{ post.url_arxiv }}">arXiv</a> | <a href="{{ post.url_code }}">Code</a></p>
       {% elsif post.url_project_page and post.url_arxiv %}
         <p class="pub-links" style="font-size: 0.8em; margin: 0;"><a href="{{ post.url_project_page }}">Project Page</a> | <a
             href="{{ post.url_arxiv }}">arXiv</a></p>
