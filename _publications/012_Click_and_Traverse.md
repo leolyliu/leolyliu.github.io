@@ -1,0 +1,30 @@
+---
+title: "Collision-Free Humanoid Traversal in Cluttered Indoor Scenes"
+teaser: "012_Click_and_Traverse.png"
+authors:
+    - name: "Han Xue*"
+      url: "https://axian12138.github.io/"
+    - name: "Sikai Liang*"
+    - name: "Zhikai Zhang*"
+      url: "https://zzk273.github.io/"
+    - name: "Zicheng Zeng"
+      url: "https://zczeng.com/"
+    - name: "<b>Yun Liu</b>"
+    - name: "Yunrui Lian"
+      url: "https://github.com/Liam-lyr"
+    - name: "Jilong Wang"
+      url: "https://42jaylonw.github.io/"
+    - name: "Qingtao Liu"
+      url: "https://lqts.github.io/"
+    - name: "Xuesong Shi"
+      url: "https://scholar.google.com/citations?user=wRBbtl8AAAAJ&hl=en"
+    - name: "Li Yi"
+      url: "https://ericyi.github.io/"
+publication: "ArXiv, 2026"
+abstract: "A new method to enable humanoids safely traversing cluttered indoor scenes."
+url_project_page: "https://axian12138.github.io/CAT/"
+url_arxiv: "https://arxiv.org/pdf/2601.16035"
+url_code: "https://github.com/GalaxyGeneralRobotics/Click-and-Traverse"
+---
+
+ArXiv, 2026
