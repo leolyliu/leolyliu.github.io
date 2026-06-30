@@ -11,7 +11,7 @@ authors:
       url: "https://zczeng.com/"
     - name: "<b>Yun Liu</b>"
     - name: "Yunrui Lian"
-      url: "https://github.com/Liam-lyr"
+      url: "https://liam-lyr.github.io/"
     - name: "Jilong Wang"
       url: "https://42jaylonw.github.io/"
     - name: "Qingtao Liu"
@@ -20,11 +20,11 @@ authors:
       url: "https://scholar.google.com/citations?user=wRBbtl8AAAAJ&hl=en"
     - name: "Li Yi"
       url: "https://ericyi.github.io/"
-publication: "ArXiv, 2026"
+publication: "Robotics and Automation Letters (RA-L), 2026"
 abstract: "A new method to enable humanoids safely traversing cluttered indoor scenes."
 url_project_page: "https://axian12138.github.io/CAT/"
 url_arxiv: "https://arxiv.org/pdf/2601.16035"
 url_code: "https://github.com/GalaxyGeneralRobotics/Click-and-Traverse"
 ---
 
-ArXiv, 2026
+Robotics and Automation Letters (RA-L), 2026
