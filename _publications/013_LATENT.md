@@ -30,6 +30,7 @@ authors:
     - name: "Li Yi"
       url: "https://ericyi.github.io/"
 publication: "International Conference on Intelligent Robots and Systems (IROS), 2026"
+honor: "IROS Best Entertainment and Amusement Paper Award"
 abstract: "An effective autonomous policy for a humanoid playing tennis in the real world."
 url_project_page: "https://zzk273.github.io/LATENT/"
 url_arxiv: "https://arxiv.org/pdf/2603.12686v1"
