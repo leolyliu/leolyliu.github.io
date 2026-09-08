@@ -12,7 +12,7 @@ authors:
       url: "https://zq-chen22.github.io/"
     - name: "<b>Yun Liu</b>"
     - name: "Chenghuai Lin"
-      url: "https://scholar.google.com/citations?user=tM-mEZcAAAAJ&hl=zh-CN"
+      url: "https://chenghuailin.github.io/"
     - name: "Han Xue"
       url: "https://axian12138.github.io/"
     - name: "Zicheng Zeng"

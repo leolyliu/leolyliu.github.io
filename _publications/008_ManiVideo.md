@@ -15,7 +15,7 @@ authors:
     - name: "Hongwen Zhang"
       url: "https://zhanghongwen.cn/"
     - name: "Yebin Liu"
-      url: "https://scholar.google.com/citations?user=ogXIdlYAAAAJ"
+      url: "https://liuyebin.xyz/"
 publication: "Computer Vision and Pattern Recognition (CVPR), 2025"
 honor: "Hightlight"
 abstract: "A method for generalizable hand-object manipulation video generation."

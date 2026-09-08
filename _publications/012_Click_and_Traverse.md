@@ -5,6 +5,7 @@ authors:
     - name: "Han Xue*"
       url: "https://axian12138.github.io/"
     - name: "Sikai Liang*"
+      url: "https://scholar.google.com/citations?user=CJioH-sAAAAJ&hl=en"
     - name: "Zhikai Zhang*"
       url: "https://zzk273.github.io/"
     - name: "Zicheng Zeng"

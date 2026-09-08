@@ -6,6 +6,7 @@ authors:
     - name: "Chengwen Zhang*"
       url: "https://scholar.google.com/citations?user=5kHXfSMAAAAJ"
     - name: "Ruofan Xing"
+      url: "https://scholar.google.com/citations?user=B5N89KQAAAAJ"
     - name: "Bingda Tang"
       url: "https://tang-bd.github.io/"
     - name: "Bowen Yang"
