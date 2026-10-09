@@ -15,7 +15,7 @@ authors:
       url: "https://ericyi.github.io/"
     - name: "He Wang"
       url: "https://hughw19.github.io/"
-publication: "Robotics and Automation Letters (RA-L), 2023"
+publication: "International Conference on Computer Vision (ICCV), 2023"
 honor: "Best Paper Finalist"
 abstract: "An object-agnostic method to learn a universal policy for dexterous object grasping from realistic point cloud observations and proprioception."
 url_project_page: "https://pku-epic.github.io/UniDexGrasp++/"
